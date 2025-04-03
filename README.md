@@ -1,6 +1,7 @@
 ## Hi there! 👋  
 
-I’m a software engineering student and web development mentor with a passion for building impactful solutions and helping others grow. I have hands-on experience in full-stack development, automation, and data processing, and I thrive on solving complex problems.  
+I’m a software engineering student and web development mentor with a passion for building impactful solutions and helping others grow. 
+I have hands-on experience in full-stack development, automation, and data processing, and I thrive on solving complex problems.  
 
 🔹 **Tech Stack:** Python, Java, JavaScript, C#, React, Node.js, SQL, MongoDB, API Development, Git, GitHub  
 🔹 **Strengths:** Problem-solving | Collaboration | Adaptability | Innovation  

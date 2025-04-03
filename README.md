@@ -1,5 +1,5 @@
 ## Hi there! I'm Tehila Raviv 👋  
-I'm a **software engineering student** and **web development mentor** with a passion for building impactful solutions and helping others grow.  
+I'm a **software engineering student** and **web development mentor** with a passion for building impactful solutions and helping others grow. 
 I have hands-on experience in **full-stack development, automation, and data processing**, and I thrive on solving complex problems.  
 
 ### 💡 What Drives Me:
@@ -21,12 +21,6 @@ I have hands-on experience in **full-stack development, automation, and data pro
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-### 🔹 Strengths:
-- Problem-solving
-- Collaboration
-- Adaptability
-- Innovation
 
 ### 🌍 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tehila-raviv/)  

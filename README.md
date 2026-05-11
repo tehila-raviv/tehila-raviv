@@ -1,5 +1,5 @@
 # Hi, I'm Tehila Raviv 👋
-**Software Engineering Student | Backend\Fullstuck Engineer & Data**
+**Software Engineering Student | Backend/Full-Stack Developer, Data-Driven**
 
 I am a software engineering student with over 2 years of professional experience, blending backend engineering with a data-driven mindset.
 
